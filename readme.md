@@ -1,0 +1,5 @@
+strongpoints
+
+- AddPoint
+- RemovePoint
+
