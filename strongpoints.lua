@@ -3,7 +3,7 @@ local moduleInfo = {
 	desc = "strongpoints core",
 	author = "PepeAmpere",
 	date = "2018-01-28",
-	license = "notAlicense",
+	license = "MIT",
 }
 
 listOfStrongpoints = {}
